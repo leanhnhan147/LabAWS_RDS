@@ -57,3 +57,4 @@ try:
 except:
     print('table has already existed')
 insert()
+
